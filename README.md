@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alijaffery5
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in Python Development and Web development.
+- 🌱 I’m currently learning Fast API and Django.
 - 📫 How to reach me : 
   Through email:
   alijaffery155@gmail.com
