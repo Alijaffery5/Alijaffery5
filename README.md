@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alijaffery5
-- 👀 I’m interested in Python Development and Web development.
-- 🌱 I’m currently learning Fast API and Django.
+- 👀 I’m professional Python Developer with overall industrial experiecne of around 3 Years and 8 Months.
+- 🌱 I’m currently learning Fast API.
 - 📫 How to reach me : 
   Through email:
   alijaffery155@gmail.com
